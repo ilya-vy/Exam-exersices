@@ -1,0 +1,13 @@
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\obj\Debug\netcoreapp3.1\Завдання_3.csprojAssemblyReference.cache
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\obj\Debug\netcoreapp3.1\Завдання_3.AssemblyInfoInputs.cache
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\obj\Debug\netcoreapp3.1\Завдання_3.AssemblyInfo.cs
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\obj\Debug\netcoreapp3.1\Завдання_3.csproj.CoreCompileInputs.cache
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\bin\Debug\netcoreapp3.1\Завдання_3.exe
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\bin\Debug\netcoreapp3.1\Завдання_3.deps.json
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\bin\Debug\netcoreapp3.1\Завдання_3.runtimeconfig.json
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\bin\Debug\netcoreapp3.1\Завдання_3.runtimeconfig.dev.json
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\bin\Debug\netcoreapp3.1\Завдання_3.dll
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\bin\Debug\netcoreapp3.1\Завдання_3.pdb
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\obj\Debug\netcoreapp3.1\Завдання_3.dll
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\obj\Debug\netcoreapp3.1\Завдання_3.pdb
+C:\Users\JawJag\source\repos\Завдання_3\Завдання_3\obj\Debug\netcoreapp3.1\Завдання_3.genruntimeconfig.cache
